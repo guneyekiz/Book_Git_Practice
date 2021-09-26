@@ -1,0 +1,9 @@
+
+
+this is page 2 of chapter
+
+our second file
+
+whole name : page1.text
+
+now we have git enabled
