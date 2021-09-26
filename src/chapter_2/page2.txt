@@ -1,0 +1,3 @@
+this is second page of chapter 2
+
+life is easy with java
