@@ -1,9 +1,15 @@
 
 
-this is page 2 of chapter
+this is page 2 of chapter 1
 
 our second file
 
 whole name : page1.text
 
 now we have git enabled
+
+this is firthis is first page of chapter 2
+this is first page of chapter 2
+this is first page of chapter 2
+this is first page of chapter 2
+st page of chapter 2
